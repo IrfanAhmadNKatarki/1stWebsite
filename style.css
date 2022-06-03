@@ -1,0 +1,40 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+    box-sizing:border-box;
+}
+
+h1{
+    margin-left: 3rem;
+    font-weight: 100;
+}
+
+li{
+    list-style: none;
+}
+
+img[src="./images/bg.jpeg "]{
+width: 94vw;
+margin-left: 2vw;
+margin-right: 2vw;
+
+}
+
+.footer{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+img[src="./images/bg.jpeg"]{
+    width: 94vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+
+
+.footer>p{
+    font-size: 2rem;
+}
